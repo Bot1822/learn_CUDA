@@ -1,0 +1,14 @@
+Start infering...
+conv1_weight.size():150
+conv1_bias.size():6
+conv2_weight.size():2400
+conv2_bias.size():16
+fc1_weight.size():30720
+fc1_bias.size():120
+fc2_weight.size():10080
+fc2_bias.size():84
+fc3_weight.size():840
+fc3_bias.size():10
+
+infering batch 0...
+batch.size():10000
